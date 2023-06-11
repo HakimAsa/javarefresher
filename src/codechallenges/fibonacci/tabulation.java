@@ -1,4 +1,4 @@
-package codechallenges.fibionacci;
+package codechallenges.fibonacci;
 import java.math.*;
 public class tabulation {
     //will be using BigInteger to avoid integer overflow

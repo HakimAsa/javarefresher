@@ -1,4 +1,4 @@
-package codechallenges;
+package codechallenges.fizzbuzz;
 
 public class FizzBuzz {
     public static String fizzBuzz(int n){

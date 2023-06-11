@@ -1,4 +1,4 @@
-Implement Fibionacci number
+Implement Fibonacci number
 F0 = 0
 F1 = 1
 Fn = Fn-1 + Fn-2
