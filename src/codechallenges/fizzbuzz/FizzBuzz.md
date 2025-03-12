@@ -1,4 +1,4 @@
-The rules of the FizzBuzz game are very simple.
+## The rules of the FizzBuzz game are very simple.
 
 Say Fizz if the number is divisible by 3.
 Say Buzz if the number is divisible by 5.

@@ -17,7 +17,7 @@ public class dp {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
         //int k = 100; //this gives integer overflow ....
-        int k = 10; //this gives integer overflow ....
+        int k = 10; //this gives integer
         System.out.println(fib_dp(k));
         long end = System.currentTimeMillis();
 
