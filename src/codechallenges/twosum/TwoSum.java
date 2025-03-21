@@ -23,6 +23,11 @@ class TwoSum {
         throw new IllegalArgumentException("No two sum solution");
     }
 
+    //todo think of a more efficient way to reduce time complexity of the first implementation
+    public static int[] twoSumOptimized (int nums, int target){
+        return new int[]{0};
+    }
+
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
         int target = 6;
